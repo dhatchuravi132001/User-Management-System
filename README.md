@@ -1,0 +1,1 @@
+A user management system is a software application designed to manage user information within an organization or system. It typically includes features for creating, updating, deleting, and searching for user accounts.
